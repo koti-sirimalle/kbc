@@ -1,67 +1,42 @@
-QUESTIONS = [
-        {
-            "name": " India's largest city by population",
-            "option1": "Delhi",
-            "option2": "Mumbai",
-            "option3": "Pune",
-            "option4": "Bangalore",
+QUESTIONS = [{"name": "Founder of INA",
+            "option1": "Subhas Chandra Bose",
+            "option2": "Mohan Singh",
+            "option3": "Mahatma Gandhi",
+            "option4": "Bhagat Singh",
             "answer": 2,
             "money": 1000
-        },
+    },
         {
             "name": "India is a federal union comprising twenty-nine states and how many union territories?",
             "option1": "6",
-            "option2": "7",
-            "option3": "8",
+            "option2": "8",
+            "option3": "7",
             "option4": "9",
             "answer": 2,
             "money": 2000
         },
         {
-            "name": "What are the major languages spoken in Andhra Pradesh?",
+            "name": "Which language spoken in Andhra Pradesh?",
             "option1": " English and Telugu",
-            "option2": "Telugu and Urdu",
+            "option2": "All of the above languages",
             "option3": "Telugu and Kannada",
-            "option4": "All of the above languages",
+            "option4": "Telugu and Urdu",
             "answer": 2,
             "money": 3000
         },
         {
-        
             "name": "What is the state flower of Haryana?",
-            "option1": "Lotus",
-            "option2": "Rhododendron",
+            "option1": "Rose",
+            "option2": "Lotus",
             "option3": "Golden Shower",
             "option4": "Not declared",
             "answer": 2,
             "money": 5000
         },
-        {
-       
-            "name": " Where was the International Conference on 'Yoga for Diabetes' organized from January 4-6, 2017?",
-            "option1": "New Delhi ",
-            "option2": "Jharkhand",
-            "option3": "Jammu and Kashmir",
-            "option4": "Haryana",
-            "answer": 1,
-            "money": 10000
-        },
-        {
-
-
-            "name": "Name the tower which was lighted up in Tricolour of India on Republic Day, 2017?",
-            "option1": "WTC Towers",
-            "option2": "Jeddah Tower",
-            "option3": "Burj Khalifa",
-            "option4": "Burj Al Arab",
-            "answer": 3,
-            "money": 20000
-        },
-        {
-          
+        { 
             "name": "Which of the following states is not located in the North?",
             "option1": "Himachal Pradesh",
-            "option2": "Jharkhand",
+            "option2": "Andhra Pradesh",
             "option3": "Jammu and Kashmir",
             "option4": "Haryana",
             "answer": 2,
@@ -69,8 +44,8 @@ QUESTIONS = [
         },
         {
             "name": "In what state is the Elephant Falls located?",
-            "option1": "Meghalaya",
-            "option2": "Mizoram",
+            "option1": "Mizoram",
+            "option2": "Meghalaya",
             "option3": "Orissa",
             "option4": "Manipur",
             "answer": 2,
@@ -106,14 +81,13 @@ QUESTIONS = [
         {
             "name": "In which state is the main language Khasi?",
             "option1": "Nagaland",
-            "option2": "Rajasthan",
+            "option2": "Meghalaya",
             "option3": "Maharashtra",
-            "option4": "Meghalaya",
-            "answer": 4,
+            "option4": "Rajasthan",
+            "answer": 2,
             "money": 1250000
         },
         {
- 
             "name": "Which of the following created history in 2016 by winning all three gold medals on offer in the 1st Western Asia Youth Chess Championship?",
             "option1": "Nihal Sarin",
             "option2": "Kush Bhagat",
@@ -123,8 +97,6 @@ QUESTIONS = [
             "money": 2500000
         },
         {
-                
-         
             "name": " Which Bollywood actress is the new ambassador for Swachh Bharat Mission's youth-based 'Swachh Saathi' programme?",
             "option1": "Vidya Balan ",
             "option2": "Dia Mirza ",
@@ -136,11 +108,28 @@ QUESTIONS = [
         {
             "name": "When is the Indian Air Force Day celebrated?",
             "option1": "October 9",
-            "option2": "October 10",
-            "option3": "October 8",
+            "option2": "October 8",
+            "option3": "October 10",
             "option4": "October 11",
-            "answer": 3,
+            "answer": 2,
+            "money": 7000000
+        },
+        {
+            "name": "Azure belongs to",
+            "option1": "Google",
+            "option2": "Microsoft",
+            "option3": "Amazon",
+            "option4": "Apple",
+            "answer": 2,
+            "money": 8000000
+        },
+        {
+            "name": "Bulb is invented by",
+            "option1": "Joseph Swan",
+            "option2": "Edison",
+            "option3": "Mathew Evans",
+            "option4": "Newton",
+            "answer": 2,
             "money": 10000000
         }
-
-    ]
+        ]
